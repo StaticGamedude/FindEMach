@@ -34,3 +34,6 @@
 #Directories
 Debug/
 Release/
+x64/
+FindEMach/Debug/
+FidnEMach/x64/
